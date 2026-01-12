@@ -9,8 +9,11 @@ class Job extends Model
     protected $table = 'job_listings';
 
     protected $fillable = [
-        'name',
-        'salary',
-
+        'title',
+        'description',
+        'employment_type',
+        'location',
+        'salary_range',
+        'status',
     ];
 }
