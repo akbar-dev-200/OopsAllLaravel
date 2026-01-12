@@ -24,8 +24,6 @@ Below is a short visual demo showing the **current database structure and relati
 
 ![Database Structure Demo](docs/databaseStructure_MAX.gif)
 
-> This GIF is intentionally short and focused, designed to give a quick overview rather than a full walkthrough.
-
 ---
 
 ## 🎯 Goals
