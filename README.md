@@ -18,6 +18,16 @@ Mistakes are intentional. Learning is guaranteed.
 
 ---
 
+## 🗄️ Database Structure Demo
+
+Below is a short visual demo showing the **current database structure and relationships** as they evolve during development:
+
+![Database Structure Demo](docs/databaseStructure_MAX.gif)
+
+> This GIF is intentionally short and focused, designed to give a quick overview rather than a full walkthrough.
+
+---
+
 ## 🎯 Goals
 
 * Build a strong foundation in **Laravel fundamentals**
@@ -57,7 +67,7 @@ Mistakes are intentional. Learning is guaranteed.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/laravel-and-chill.git
+git clone https://github.com/akbar-dev-200/laravel-and-chill.git
 cd laravel-and-chill
 ```
 
