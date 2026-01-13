@@ -21,4 +21,9 @@ class Application extends Model
         'user_id',
         'job_id',
     ];
+
+    public function user()
+    {
+        return $this->belongsTo(User::class);
+    }
 }
